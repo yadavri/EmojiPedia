@@ -1,6 +1,6 @@
 import React from "react";
 import Element from "./Element";
-import emojipedia from "/src/emojipedia";
+import emojipedia from "./emojipedia";
 
 function CreateElement(element) {
   return (
